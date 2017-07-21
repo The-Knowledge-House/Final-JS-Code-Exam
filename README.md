@@ -16,6 +16,7 @@ Do not worry about designing. Worry about functionality more.
 
 ### My server needs to: 
 
+- Connect to my database
 - Send data to the front end
 - Create new Data in my database
 - Update the current data in my database
